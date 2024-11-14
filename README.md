@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Krishna Srivastava
-- 👀 I’m interested in Programming, Problem Solving, AI/ML, Web Dev
+- 👀 I’m interested in Programming, Problem Solving, AI/ML, Web Dev and a lot of new and interesting technologies
 - 🌱 I’m currently learning C and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me www.linkedin.com/in/krishna-srivastava-770964302
